@@ -20,6 +20,7 @@
 - mr
 - ripgrep
 - locate
+- croc
 
 ## Brew Cask
 - font-hack-nerd-font
