@@ -4,6 +4,12 @@
 
 ## Router
 
+- Eero
+
+## VPN
+
+- Express VPN 
+
 ## Gateway
 
 ## Network Devices
@@ -12,3 +18,6 @@
 
 ## Wireless Devices
 
+## Tunnels
+
+cloudflared tunnels pointing at the various web services
