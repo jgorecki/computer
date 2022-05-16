@@ -21,6 +21,7 @@
 - ripgrep
 - locate
 - croc
+- syncthing
 
 ## Brew Cask
 - font-hack-nerd-font
