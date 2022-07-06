@@ -22,6 +22,7 @@
 - locate
 - croc
 - syncthing
+- sn0int
 
 ## Brew Cask
 - font-hack-nerd-font
