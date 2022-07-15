@@ -23,6 +23,7 @@
 - croc
 - syncthing
 - sn0int
+- asciinema
 
 ## Brew Cask
 - font-hack-nerd-font
