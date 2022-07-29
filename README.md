@@ -24,6 +24,8 @@
 - syncthing
 - sn0int
 - asciinema
+- speedtest-cli
+- tmux
 
 ## Brew Cask
 - font-hack-nerd-font
