@@ -34,10 +34,13 @@
 
 ### Fish shell
 - Oh My Fish
+- Fisher
 - BobTheFish
 - Weather
 - Peco
 - Pisces
+- Spark
+- Bax
 
 ### pipx
 - doc2dash
